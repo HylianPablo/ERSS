@@ -1,0 +1,528 @@
+2020-04-01 20:39:17,305 INFO o.a.j.u.JMeterUtils: Setting Locale to en_US
+2020-04-01 20:39:17,336 INFO o.a.j.JMeter: Loading user properties from: /home/pablo/jmeter/bin/user.properties
+2020-04-01 20:39:17,337 INFO o.a.j.JMeter: Loading system properties from: /home/pablo/jmeter/bin/system.properties
+2020-04-01 20:39:17,338 INFO o.a.j.JMeter: Setting System property: HILOS=150
+2020-04-01 20:39:17,338 INFO o.a.j.JMeter: Setting System property: SUBIDA=60
+2020-04-01 20:39:17,338 INFO o.a.j.JMeter: Setting System property: DURACION=300
+2020-04-01 20:39:17,339 INFO o.a.j.JMeter: Setting System property: PAGE=/test/imagenp.html
+2020-04-01 20:39:17,339 INFO o.a.j.JMeter: Setting System property: FILE=scriptresultsperfmonP150.jtl
+2020-04-01 20:39:17,342 INFO o.a.j.JMeter: Copyright (c) 1998-2019 The Apache Software Foundation
+2020-04-01 20:39:17,342 INFO o.a.j.JMeter: Version 5.2.1
+2020-04-01 20:39:17,342 INFO o.a.j.JMeter: java.version=1.8.0_201
+2020-04-01 20:39:17,343 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2020-04-01 20:39:17,343 INFO o.a.j.JMeter: os.name=Linux
+2020-04-01 20:39:17,343 INFO o.a.j.JMeter: os.arch=amd64
+2020-04-01 20:39:17,343 INFO o.a.j.JMeter: os.version=4.15.0-91-generic
+2020-04-01 20:39:17,344 INFO o.a.j.JMeter: file.encoding=UTF-8
+2020-04-01 20:39:17,344 INFO o.a.j.JMeter: java.awt.headless=true
+2020-04-01 20:39:17,344 INFO o.a.j.JMeter: Max memory     =732954624
+2020-04-01 20:39:17,345 INFO o.a.j.JMeter: Available Processors =4
+2020-04-01 20:39:17,352 INFO o.a.j.JMeter: Default Locale=English (United States)
+2020-04-01 20:39:17,353 INFO o.a.j.JMeter: JMeter  Locale=English (United States)
+2020-04-01 20:39:17,353 INFO o.a.j.JMeter: JMeterHome=/home/pablo/jmeter
+2020-04-01 20:39:17,354 INFO o.a.j.JMeter: user.dir  =/home/pablo/jmeter/bin/EJECUCIONES/P1
+2020-04-01 20:39:17,354 INFO o.a.j.JMeter: PWD       =/home/pablo/jmeter/bin/EJECUCIONES/P1
+2020-04-01 20:39:17,355 INFO o.a.j.JMeter: IP: 127.0.1.1 Name: hylianpablo FullName: hylianpablo
+2020-04-01 20:39:17,363 INFO o.a.j.s.FileServer: Default base='/home/pablo/jmeter/bin/EJECUCIONES/P1'
+2020-04-01 20:39:17,373 INFO o.a.j.s.FileServer: Set new base='/home/pablo/jmeter/bin/EJECUCIONES/P1/../..'
+2020-04-01 20:39:17,658 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2020-04-01 20:39:17,676 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2020-04-01 20:39:17,691 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2020-04-01 20:39:17,712 INFO o.a.j.s.SaveService: Loading file: ../../Correcto.jmx
+2020-04-01 20:39:17,870 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-04-01 20:39:17,870 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-04-01 20:39:17,870 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-04-01 20:39:17,870 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-04-01 20:39:17,871 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2020-04-01 20:39:17,871 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2020-04-01 20:39:17,893 INFO o.a.j.JMeter: Creating summariser <summary>
+2020-04-01 20:39:17,906 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2020-04-01 20:39:17,908 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2020-04-01 20:39:17,908 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2020-04-01 20:39:17,923 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2020-04-01 20:39:17,923 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2020-04-01 20:39:18,709 INFO o.a.j.JMeter: Running test (1585766358709)
+2020-04-01 20:39:18,831 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Grupo De Hilos
+2020-04-01 20:39:18,832 INFO o.a.j.e.StandardJMeterEngine: Starting 150 threads for group Grupo De Hilos.
+2020-04-01 20:39:18,832 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2020-04-01 20:39:18,833 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=150 ramp-up=60 delayedStart=false
+2020-04-01 20:39:18,886 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-1
+2020-04-01 20:39:18,943 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = hylianpablo
+2020-04-01 20:39:18,961 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2020-04-01 20:39:18,966 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2020-04-01 20:39:18,967 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2020-04-01 20:39:18,967 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2020-04-01 20:39:18,968 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2020-04-01 20:39:19,091 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2020-04-01 20:39:19,091 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2020-04-01 20:39:19,275 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-2
+2020-04-01 20:39:19,674 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-3
+2020-04-01 20:39:20,072 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-4
+2020-04-01 20:39:20,436 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-5
+2020-04-01 20:39:20,835 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-6
+2020-04-01 20:39:21,236 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-7
+2020-04-01 20:39:21,636 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-8
+2020-04-01 20:39:22,035 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-9
+2020-04-01 20:39:22,435 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-10
+2020-04-01 20:39:22,835 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-11
+2020-04-01 20:39:23,236 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-12
+2020-04-01 20:39:23,635 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-13
+2020-04-01 20:39:24,038 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-14
+2020-04-01 20:39:24,449 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-15
+2020-04-01 20:39:24,835 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-16
+2020-04-01 20:39:25,237 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-17
+2020-04-01 20:39:25,635 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-18
+2020-04-01 20:39:26,035 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-19
+2020-04-01 20:39:26,439 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-20
+2020-04-01 20:39:26,838 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-21
+2020-04-01 20:39:27,237 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-22
+2020-04-01 20:39:27,638 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-23
+2020-04-01 20:39:28,036 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-24
+2020-04-01 20:39:28,435 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-25
+2020-04-01 20:39:28,835 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-26
+2020-04-01 20:39:29,235 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-27
+2020-04-01 20:39:29,635 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-28
+2020-04-01 20:39:30,006 INFO o.a.j.r.Summariser: summary +   5483 in 00:00:11 =  485.5/s Avg:    28 Min:    14 Max:   246 Err:     0 (0.00%) Active: 28 Started: 28 Finished: 0
+2020-04-01 20:39:30,035 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-29
+2020-04-01 20:39:30,434 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-30
+2020-04-01 20:39:30,835 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-31
+2020-04-01 20:39:31,234 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-32
+2020-04-01 20:39:31,640 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-33
+2020-04-01 20:39:32,034 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-34
+2020-04-01 20:39:32,435 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-35
+2020-04-01 20:39:32,834 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-36
+2020-04-01 20:39:33,235 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-37
+2020-04-01 20:39:33,635 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-38
+2020-04-01 20:39:34,034 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-39
+2020-04-01 20:39:34,435 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-40
+2020-04-01 20:39:34,840 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-41
+2020-04-01 20:39:35,234 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-42
+2020-04-01 20:39:35,635 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-43
+2020-04-01 20:39:36,034 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-44
+2020-04-01 20:39:36,434 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-45
+2020-04-01 20:39:36,835 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-46
+2020-04-01 20:39:37,235 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-47
+2020-04-01 20:39:37,636 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-48
+2020-04-01 20:39:38,036 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-49
+2020-04-01 20:39:38,435 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-50
+2020-04-01 20:39:38,835 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-51
+2020-04-01 20:39:39,235 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-52
+2020-04-01 20:39:39,639 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-53
+2020-04-01 20:39:40,035 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-54
+2020-04-01 20:39:40,435 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-55
+2020-04-01 20:39:40,836 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-56
+2020-04-01 20:39:41,235 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-57
+2020-04-01 20:39:41,634 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-58
+2020-04-01 20:39:42,035 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-59
+2020-04-01 20:39:42,439 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-60
+2020-04-01 20:39:42,834 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-61
+2020-04-01 20:39:43,235 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-62
+2020-04-01 20:39:43,635 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-63
+2020-04-01 20:39:44,033 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-64
+2020-04-01 20:39:44,434 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-65
+2020-04-01 20:39:44,834 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-66
+2020-04-01 20:39:45,234 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-67
+2020-04-01 20:39:45,633 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-68
+2020-04-01 20:39:46,035 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-69
+2020-04-01 20:39:46,435 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-70
+2020-04-01 20:39:46,834 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-71
+2020-04-01 20:39:47,234 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-72
+2020-04-01 20:39:47,634 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-73
+2020-04-01 20:39:48,037 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-74
+2020-04-01 20:39:48,434 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-75
+2020-04-01 20:39:48,834 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-76
+2020-04-01 20:39:49,242 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-77
+2020-04-01 20:39:49,641 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-78
+2020-04-01 20:39:50,037 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-79
+2020-04-01 20:39:50,435 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-80
+2020-04-01 20:39:50,837 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-81
+2020-04-01 20:39:51,238 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-82
+2020-04-01 20:39:51,637 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-83
+2020-04-01 20:39:52,037 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-84
+2020-04-01 20:39:52,436 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-85
+2020-04-01 20:39:52,836 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-86
+2020-04-01 20:39:53,241 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-87
+2020-04-01 20:39:53,636 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-88
+2020-04-01 20:39:54,038 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-89
+2020-04-01 20:39:54,445 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-90
+2020-04-01 20:39:54,836 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-91
+2020-04-01 20:39:55,234 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-92
+2020-04-01 20:39:55,634 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-93
+2020-04-01 20:39:56,034 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-94
+2020-04-01 20:39:56,433 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-95
+2020-04-01 20:39:56,845 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-96
+2020-04-01 20:39:57,235 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-97
+2020-04-01 20:39:57,638 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-98
+2020-04-01 20:39:58,037 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-99
+2020-04-01 20:39:58,437 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-100
+2020-04-01 20:39:58,838 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-101
+2020-04-01 20:39:59,235 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-102
+2020-04-01 20:39:59,636 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-103
+2020-04-01 20:40:00,003 INFO o.a.j.r.Summariser: summary +  41828 in 00:00:30 = 1394.3/s Avg:    47 Min:    14 Max:   297 Err:     0 (0.00%) Active: 103 Started: 103 Finished: 0
+2020-04-01 20:40:00,004 INFO o.a.j.r.Summariser: summary =  47311 in 00:00:41 = 1145.7/s Avg:    44 Min:    14 Max:   297 Err:     0 (0.00%)
+2020-04-01 20:40:00,036 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-104
+2020-04-01 20:40:00,434 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-105
+2020-04-01 20:40:00,834 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-106
+2020-04-01 20:40:01,238 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-107
+2020-04-01 20:40:01,634 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-108
+2020-04-01 20:40:02,034 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-109
+2020-04-01 20:40:02,434 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-110
+2020-04-01 20:40:02,834 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-111
+2020-04-01 20:40:03,235 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-112
+2020-04-01 20:40:03,634 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-113
+2020-04-01 20:40:04,035 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-114
+2020-04-01 20:40:04,436 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-115
+2020-04-01 20:40:04,834 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-116
+2020-04-01 20:40:05,239 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-117
+2020-04-01 20:40:05,637 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-118
+2020-04-01 20:40:06,038 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-119
+2020-04-01 20:40:06,437 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-120
+2020-04-01 20:40:06,839 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-121
+2020-04-01 20:40:07,238 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-122
+2020-04-01 20:40:07,647 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-123
+2020-04-01 20:40:08,046 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-124
+2020-04-01 20:40:08,445 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-125
+2020-04-01 20:40:08,843 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-126
+2020-04-01 20:40:09,251 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-127
+2020-04-01 20:40:09,637 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-128
+2020-04-01 20:40:10,035 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-129
+2020-04-01 20:40:10,434 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-130
+2020-04-01 20:40:10,836 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-131
+2020-04-01 20:40:11,236 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-132
+2020-04-01 20:40:11,636 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-133
+2020-04-01 20:40:12,035 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-134
+2020-04-01 20:40:12,435 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-135
+2020-04-01 20:40:12,834 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-136
+2020-04-01 20:40:13,238 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-137
+2020-04-01 20:40:13,635 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-138
+2020-04-01 20:40:14,034 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-139
+2020-04-01 20:40:14,436 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-140
+2020-04-01 20:40:14,834 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-141
+2020-04-01 20:40:15,233 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-142
+2020-04-01 20:40:15,637 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-143
+2020-04-01 20:40:16,035 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-144
+2020-04-01 20:40:16,435 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-145
+2020-04-01 20:40:16,835 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-146
+2020-04-01 20:40:17,234 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-147
+2020-04-01 20:40:17,635 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-148
+2020-04-01 20:40:18,034 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-149
+2020-04-01 20:40:18,436 INFO o.a.j.t.JMeterThread: Thread started: Grupo De Hilos 1-150
+2020-04-01 20:40:30,002 INFO o.a.j.r.Summariser: summary +  50294 in 00:00:30 = 1676.6/s Avg:    80 Min:    24 Max:  1187 Err:     0 (0.00%) Active: 150 Started: 150 Finished: 0
+2020-04-01 20:40:30,003 INFO o.a.j.r.Summariser: summary =  97605 in 00:01:11 = 1369.1/s Avg:    63 Min:    14 Max:  1187 Err:     0 (0.00%)
+2020-04-01 20:41:00,012 INFO o.a.j.r.Summariser: summary +  47282 in 00:00:30 = 1575.5/s Avg:    94 Min:    30 Max:   364 Err:     0 (0.00%) Active: 150 Started: 150 Finished: 0
+2020-04-01 20:41:00,012 INFO o.a.j.r.Summariser: summary = 144887 in 00:01:41 = 1430.2/s Avg:    73 Min:    14 Max:  1187 Err:     0 (0.00%)
+2020-04-01 20:41:30,002 INFO o.a.j.r.Summariser: summary +  39709 in 00:00:30 = 1324.1/s Avg:   113 Min:    31 Max:   604 Err:     0 (0.00%) Active: 150 Started: 150 Finished: 0
+2020-04-01 20:41:30,003 INFO o.a.j.r.Summariser: summary = 184596 in 00:02:11 = 1406.0/s Avg:    82 Min:    14 Max:  1187 Err:     0 (0.00%)
+2020-04-01 20:42:00,018 INFO o.a.j.r.Summariser: summary +  47749 in 00:00:30 = 1590.8/s Avg:    93 Min:    27 Max:   434 Err:     0 (0.00%) Active: 150 Started: 150 Finished: 0
+2020-04-01 20:42:00,019 INFO o.a.j.r.Summariser: summary = 232345 in 00:02:41 = 1440.4/s Avg:    84 Min:    14 Max:  1187 Err:     0 (0.00%)
+2020-04-01 20:42:30,003 INFO o.a.j.r.Summariser: summary +  52229 in 00:00:30 = 1741.8/s Avg:    86 Min:    30 Max:  1169 Err:     0 (0.00%) Active: 150 Started: 150 Finished: 0
+2020-04-01 20:42:30,004 INFO o.a.j.r.Summariser: summary = 284574 in 00:03:11 = 1487.6/s Avg:    84 Min:    14 Max:  1187 Err:     0 (0.00%)
+2020-04-01 20:43:00,001 INFO o.a.j.r.Summariser: summary +  51709 in 00:00:30 = 1723.8/s Avg:    86 Min:    29 Max:   342 Err:     0 (0.00%) Active: 150 Started: 150 Finished: 0
+2020-04-01 20:43:00,002 INFO o.a.j.r.Summariser: summary = 336283 in 00:03:41 = 1519.6/s Avg:    85 Min:    14 Max:  1187 Err:     0 (0.00%)
+2020-04-01 20:43:30,006 INFO o.a.j.r.Summariser: summary +  44565 in 00:00:30 = 1485.2/s Avg:   100 Min:    24 Max:  1891 Err:     0 (0.00%) Active: 150 Started: 150 Finished: 0
+2020-04-01 20:43:30,008 INFO o.a.j.r.Summariser: summary = 380848 in 00:04:11 = 1515.5/s Avg:    87 Min:    14 Max:  1891 Err:     0 (0.00%)
+2020-04-01 20:44:00,008 INFO o.a.j.r.Summariser: summary +  51798 in 00:00:30 = 1726.5/s Avg:    86 Min:    24 Max:   427 Err:     0 (0.00%) Active: 150 Started: 150 Finished: 0
+2020-04-01 20:44:00,009 INFO o.a.j.r.Summariser: summary = 432646 in 00:04:41 = 1538.0/s Avg:    86 Min:    14 Max:  1891 Err:     0 (0.00%)
+2020-04-01 20:44:18,898 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-8
+2020-04-01 20:44:18,899 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-8
+2020-04-01 20:44:18,905 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-6
+2020-04-01 20:44:18,906 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-6
+2020-04-01 20:44:18,906 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-5
+2020-04-01 20:44:18,907 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-5
+2020-04-01 20:44:18,915 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-10
+2020-04-01 20:44:18,915 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-21
+2020-04-01 20:44:18,915 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-1
+2020-04-01 20:44:18,915 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-22
+2020-04-01 20:44:18,916 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-21
+2020-04-01 20:44:18,915 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-10
+2020-04-01 20:44:18,916 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-22
+2020-04-01 20:44:18,916 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-1
+2020-04-01 20:44:18,941 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-27
+2020-04-01 20:44:18,941 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-27
+2020-04-01 20:44:18,941 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-23
+2020-04-01 20:44:18,941 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-23
+2020-04-01 20:44:18,941 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-45
+2020-04-01 20:44:18,942 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-45
+2020-04-01 20:44:18,942 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-3
+2020-04-01 20:44:18,942 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-3
+2020-04-01 20:44:18,943 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-7
+2020-04-01 20:44:18,943 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-7
+2020-04-01 20:44:18,943 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-37
+2020-04-01 20:44:18,944 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-37
+2020-04-01 20:44:18,945 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-19
+2020-04-01 20:44:18,946 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-19
+2020-04-01 20:44:18,944 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-34
+2020-04-01 20:44:18,947 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-34
+2020-04-01 20:44:18,948 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-39
+2020-04-01 20:44:18,948 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-11
+2020-04-01 20:44:18,949 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-39
+2020-04-01 20:44:18,949 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-11
+2020-04-01 20:44:18,949 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-29
+2020-04-01 20:44:18,949 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-29
+2020-04-01 20:44:18,979 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-33
+2020-04-01 20:44:18,979 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-33
+2020-04-01 20:44:18,979 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-66
+2020-04-01 20:44:18,979 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-66
+2020-04-01 20:44:18,980 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-38
+2020-04-01 20:44:18,980 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-38
+2020-04-01 20:44:18,980 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-4
+2020-04-01 20:44:18,980 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-4
+2020-04-01 20:44:18,981 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-25
+2020-04-01 20:44:18,979 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-48
+2020-04-01 20:44:18,979 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-44
+2020-04-01 20:44:18,981 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-25
+2020-04-01 20:44:18,981 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-48
+2020-04-01 20:44:18,981 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-32
+2020-04-01 20:44:18,981 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-44
+2020-04-01 20:44:18,981 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-32
+2020-04-01 20:44:19,009 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-73
+2020-04-01 20:44:19,009 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-73
+2020-04-01 20:44:19,009 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-70
+2020-04-01 20:44:19,009 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-9
+2020-04-01 20:44:19,009 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-43
+2020-04-01 20:44:19,010 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-43
+2020-04-01 20:44:19,010 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-16
+2020-04-01 20:44:19,010 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-42
+2020-04-01 20:44:19,010 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-49
+2020-04-01 20:44:19,010 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-16
+2020-04-01 20:44:19,010 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-42
+2020-04-01 20:44:19,010 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-49
+2020-04-01 20:44:19,011 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-88
+2020-04-01 20:44:19,011 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-88
+2020-04-01 20:44:19,011 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-94
+2020-04-01 20:44:19,012 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-94
+2020-04-01 20:44:19,012 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-67
+2020-04-01 20:44:19,012 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-67
+2020-04-01 20:44:19,012 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-65
+2020-04-01 20:44:19,012 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-14
+2020-04-01 20:44:19,013 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-65
+2020-04-01 20:44:19,013 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-14
+2020-04-01 20:44:19,013 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-72
+2020-04-01 20:44:19,013 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-30
+2020-04-01 20:44:19,014 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-72
+2020-04-01 20:44:19,014 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-30
+2020-04-01 20:44:19,014 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-96
+2020-04-01 20:44:19,014 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-77
+2020-04-01 20:44:19,014 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-96
+2020-04-01 20:44:19,015 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-77
+2020-04-01 20:44:19,015 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-62
+2020-04-01 20:44:19,015 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-17
+2020-04-01 20:44:19,015 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-36
+2020-04-01 20:44:19,015 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-17
+2020-04-01 20:44:19,016 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-36
+2020-04-01 20:44:19,016 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-40
+2020-04-01 20:44:19,016 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-40
+2020-04-01 20:44:19,016 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-15
+2020-04-01 20:44:19,017 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-15
+2020-04-01 20:44:19,009 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-2
+2020-04-01 20:44:19,015 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-62
+2020-04-01 20:44:19,010 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-70
+2020-04-01 20:44:19,017 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-2
+2020-04-01 20:44:19,009 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-9
+2020-04-01 20:44:19,018 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-20
+2020-04-01 20:44:19,018 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-53
+2020-04-01 20:44:19,018 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-20
+2020-04-01 20:44:19,018 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-53
+2020-04-01 20:44:19,019 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-13
+2020-04-01 20:44:19,019 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-13
+2020-04-01 20:44:19,020 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-28
+2020-04-01 20:44:19,020 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-28
+2020-04-01 20:44:19,021 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-18
+2020-04-01 20:44:19,022 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-47
+2020-04-01 20:44:19,022 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-18
+2020-04-01 20:44:19,022 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-47
+2020-04-01 20:44:19,027 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-24
+2020-04-01 20:44:19,027 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-26
+2020-04-01 20:44:19,027 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-69
+2020-04-01 20:44:19,027 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-24
+2020-04-01 20:44:19,028 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-63
+2020-04-01 20:44:19,028 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-26
+2020-04-01 20:44:19,028 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-63
+2020-04-01 20:44:19,028 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-79
+2020-04-01 20:44:19,028 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-79
+2020-04-01 20:44:19,028 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-69
+2020-04-01 20:44:19,028 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-80
+2020-04-01 20:44:19,028 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-59
+2020-04-01 20:44:19,028 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-80
+2020-04-01 20:44:19,029 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-59
+2020-04-01 20:44:19,028 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-83
+2020-04-01 20:44:19,029 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-76
+2020-04-01 20:44:19,029 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-83
+2020-04-01 20:44:19,029 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-76
+2020-04-01 20:44:19,048 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-87
+2020-04-01 20:44:19,048 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-78
+2020-04-01 20:44:19,049 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-87
+2020-04-01 20:44:19,049 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-61
+2020-04-01 20:44:19,049 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-78
+2020-04-01 20:44:19,049 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-61
+2020-04-01 20:44:19,048 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-55
+2020-04-01 20:44:19,049 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-55
+2020-04-01 20:44:19,049 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-111
+2020-04-01 20:44:19,050 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-111
+2020-04-01 20:44:19,050 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-58
+2020-04-01 20:44:19,050 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-58
+2020-04-01 20:44:19,050 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-71
+2020-04-01 20:44:19,050 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-119
+2020-04-01 20:44:19,050 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-71
+2020-04-01 20:44:19,050 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-90
+2020-04-01 20:44:19,050 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-119
+2020-04-01 20:44:19,050 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-90
+2020-04-01 20:44:19,053 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-75
+2020-04-01 20:44:19,054 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-75
+2020-04-01 20:44:19,054 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-81
+2020-04-01 20:44:19,054 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-35
+2020-04-01 20:44:19,054 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-81
+2020-04-01 20:44:19,054 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-60
+2020-04-01 20:44:19,054 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-46
+2020-04-01 20:44:19,054 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-60
+2020-04-01 20:44:19,054 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-41
+2020-04-01 20:44:19,054 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-93
+2020-04-01 20:44:19,055 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-41
+2020-04-01 20:44:19,055 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-93
+2020-04-01 20:44:19,055 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-109
+2020-04-01 20:44:19,055 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-35
+2020-04-01 20:44:19,056 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-114
+2020-04-01 20:44:19,056 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-114
+2020-04-01 20:44:19,056 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-126
+2020-04-01 20:44:19,056 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-126
+2020-04-01 20:44:19,056 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-113
+2020-04-01 20:44:19,057 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-109
+2020-04-01 20:44:19,057 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-113
+2020-04-01 20:44:19,054 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-89
+2020-04-01 20:44:19,057 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-89
+2020-04-01 20:44:19,056 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-118
+2020-04-01 20:44:19,058 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-82
+2020-04-01 20:44:19,058 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-118
+2020-04-01 20:44:19,058 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-82
+2020-04-01 20:44:19,057 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-46
+2020-04-01 20:44:19,055 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-12
+2020-04-01 20:44:19,059 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-95
+2020-04-01 20:44:19,059 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-98
+2020-04-01 20:44:19,059 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-95
+2020-04-01 20:44:19,059 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-98
+2020-04-01 20:44:19,059 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-12
+2020-04-01 20:44:19,059 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-52
+2020-04-01 20:44:19,060 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-52
+2020-04-01 20:44:19,074 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-102
+2020-04-01 20:44:19,075 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-103
+2020-04-01 20:44:19,075 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-116
+2020-04-01 20:44:19,075 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-84
+2020-04-01 20:44:19,075 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-116
+2020-04-01 20:44:19,075 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-74
+2020-04-01 20:44:19,074 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-121
+2020-04-01 20:44:19,075 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-84
+2020-04-01 20:44:19,075 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-74
+2020-04-01 20:44:19,075 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-51
+2020-04-01 20:44:19,075 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-121
+2020-04-01 20:44:19,076 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-103
+2020-04-01 20:44:19,076 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-51
+2020-04-01 20:44:19,074 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-133
+2020-04-01 20:44:19,075 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-104
+2020-04-01 20:44:19,076 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-104
+2020-04-01 20:44:19,076 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-56
+2020-04-01 20:44:19,077 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-133
+2020-04-01 20:44:19,075 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-136
+2020-04-01 20:44:19,077 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-56
+2020-04-01 20:44:19,075 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-64
+2020-04-01 20:44:19,075 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-102
+2020-04-01 20:44:19,077 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-136
+2020-04-01 20:44:19,077 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-64
+2020-04-01 20:44:19,086 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-105
+2020-04-01 20:44:19,086 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-31
+2020-04-01 20:44:19,086 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-110
+2020-04-01 20:44:19,087 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-31
+2020-04-01 20:44:19,087 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-101
+2020-04-01 20:44:19,087 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-110
+2020-04-01 20:44:19,087 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-101
+2020-04-01 20:44:19,087 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-57
+2020-04-01 20:44:19,087 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-57
+2020-04-01 20:44:19,086 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-141
+2020-04-01 20:44:19,087 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-141
+2020-04-01 20:44:19,087 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-105
+2020-04-01 20:44:19,088 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-97
+2020-04-01 20:44:19,088 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-97
+2020-04-01 20:44:19,099 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-149
+2020-04-01 20:44:19,098 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-106
+2020-04-01 20:44:19,099 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-106
+2020-04-01 20:44:19,099 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-86
+2020-04-01 20:44:19,099 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-91
+2020-04-01 20:44:19,099 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-112
+2020-04-01 20:44:19,099 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-92
+2020-04-01 20:44:19,099 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-112
+2020-04-01 20:44:19,099 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-149
+2020-04-01 20:44:19,100 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-92
+2020-04-01 20:44:19,100 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-91
+2020-04-01 20:44:19,100 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-86
+2020-04-01 20:44:19,099 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-85
+2020-04-01 20:44:19,099 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-108
+2020-04-01 20:44:19,100 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-85
+2020-04-01 20:44:19,100 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-108
+2020-04-01 20:44:19,104 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-143
+2020-04-01 20:44:19,104 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-145
+2020-04-01 20:44:19,104 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-115
+2020-04-01 20:44:19,105 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-143
+2020-04-01 20:44:19,105 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-115
+2020-04-01 20:44:19,105 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-145
+2020-04-01 20:44:19,104 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-139
+2020-04-01 20:44:19,105 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-139
+2020-04-01 20:44:19,117 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-142
+2020-04-01 20:44:19,117 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-128
+2020-04-01 20:44:19,117 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-142
+2020-04-01 20:44:19,117 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-128
+2020-04-01 20:44:19,117 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-132
+2020-04-01 20:44:19,117 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-127
+2020-04-01 20:44:19,117 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-132
+2020-04-01 20:44:19,117 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-127
+2020-04-01 20:44:19,129 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-138
+2020-04-01 20:44:19,129 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-122
+2020-04-01 20:44:19,129 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-138
+2020-04-01 20:44:19,129 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-50
+2020-04-01 20:44:19,129 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-117
+2020-04-01 20:44:19,129 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-122
+2020-04-01 20:44:19,129 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-50
+2020-04-01 20:44:19,129 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-117
+2020-04-01 20:44:19,129 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-134
+2020-04-01 20:44:19,130 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-134
+2020-04-01 20:44:19,139 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-150
+2020-04-01 20:44:19,139 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-124
+2020-04-01 20:44:19,140 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-140
+2020-04-01 20:44:19,140 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-150
+2020-04-01 20:44:19,140 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-99
+2020-04-01 20:44:19,140 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-124
+2020-04-01 20:44:19,140 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-140
+2020-04-01 20:44:19,140 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-99
+2020-04-01 20:44:19,140 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-146
+2020-04-01 20:44:19,141 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-146
+2020-04-01 20:44:19,148 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-120
+2020-04-01 20:44:19,149 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-120
+2020-04-01 20:44:19,148 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-135
+2020-04-01 20:44:19,149 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-137
+2020-04-01 20:44:19,149 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-135
+2020-04-01 20:44:19,149 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-125
+2020-04-01 20:44:19,148 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-123
+2020-04-01 20:44:19,149 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-137
+2020-04-01 20:44:19,149 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-123
+2020-04-01 20:44:19,149 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-125
+2020-04-01 20:44:19,172 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-147
+2020-04-01 20:44:19,172 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-130
+2020-04-01 20:44:19,172 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-131
+2020-04-01 20:44:19,172 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-147
+2020-04-01 20:44:19,172 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-130
+2020-04-01 20:44:19,172 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-131
+2020-04-01 20:44:19,173 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-148
+2020-04-01 20:44:19,174 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-148
+2020-04-01 20:44:19,174 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-129
+2020-04-01 20:44:19,174 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-100
+2020-04-01 20:44:19,174 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-144
+2020-04-01 20:44:19,174 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-68
+2020-04-01 20:44:19,175 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-129
+2020-04-01 20:44:19,175 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-144
+2020-04-01 20:44:19,175 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-68
+2020-04-01 20:44:19,175 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-100
+2020-04-01 20:44:19,181 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-54
+2020-04-01 20:44:19,182 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-54
+2020-04-01 20:44:19,225 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Grupo De Hilos 1-107
+2020-04-01 20:44:19,225 INFO o.a.j.t.JMeterThread: Thread finished: Grupo De Hilos 1-107
+2020-04-01 20:44:19,226 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2020-04-01 20:44:19,228 INFO o.a.j.r.Summariser: summary +  31304 in 00:00:19 = 1628.7/s Avg:    91 Min:    28 Max:  1222 Err:     0 (0.00%) Active: 0 Started: 150 Finished: 150
+2020-04-01 20:44:19,229 INFO o.a.j.r.Summariser: summary = 463950 in 00:05:01 = 1543.8/s Avg:    87 Min:    14 Max:  1891 Err:     0 (0.00%)

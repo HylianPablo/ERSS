@@ -215,7 +215,7 @@
             <connectTime>true</connectTime>
           </value>
         </objProp>
-        <stringProp name="filename">${__P(FILE,scriptresultsperfmon75.jtl)}</stringProp>
+        <stringProp name="filename">/home/alejandro/ERSSNuevoRepo/EJECUCIONES/P1/14:30/scriptresultsperfmonP300.jtl</stringProp>
         <longProp name="interval_grouping">1000</longProp>
         <boolProp name="graph_aggregated">false</boolProp>
         <stringProp name="include_sample_labels"></stringProp>

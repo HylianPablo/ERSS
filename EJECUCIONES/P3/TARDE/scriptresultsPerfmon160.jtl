@@ -1,0 +1,1631 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1587127986600,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587127986601,18440192000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587127986601,7265,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587127986601,42157,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587127986601,0,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587127987602,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587127987603,18440192000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587127987603,70297,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587127987603,42248,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587127987603,27000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587127988604,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587127988604,18440192000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587127988605,95500,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587127988605,41999,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587127988605,35000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587127989606,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587127989606,18440192000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587127989606,96482,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587127989606,41776,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587127989606,47000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587127990607,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587127990607,18440192000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587127990607,73500,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587127990607,40516,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587127990607,29000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587127991610,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587127991610,18440192000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587127991610,97487,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587127991610,40281,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587127991610,32000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587127992611,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587127992611,18440192000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587127992611,97979,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587127992611,40524,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587127992611,52000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587127993613,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587127993613,18440192000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587127993613,97487,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587127993613,39818,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587127993613,39000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587127994614,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587127994614,18440192000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587127994614,97029,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587127994614,40460,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587127994614,53000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587127995615,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587127995615,18440192000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587127995615,97000,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587127995615,40633,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587127995615,35000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587127996616,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587127996616,18440192000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587127996616,95979,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587127996616,40182,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587127996616,33000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587127997617,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587127997617,18440192000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587127997617,96500,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587127997617,41559,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587127997617,87000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587127998618,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587127998619,18440192000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587127998619,97969,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587127998619,41986,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587127998619,41000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587127999620,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587127999620,18440192000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587127999620,98500,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587127999620,40746,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587127999620,55000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128000621,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128000621,18440192000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128000621,97500,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128000621,42375,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128000621,44000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128001622,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128001622,18440192000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128001622,97474,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128001622,42558,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128001622,38000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128002623,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128002624,18440192000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128002624,96969,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128002624,44534,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128002624,36000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128003625,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128003625,18440192000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128003625,97500,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128003625,46250,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128003625,31000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128004626,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128004626,18440192000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128004626,96482,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128004626,47728,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128004626,35000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128005628,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128005628,18440192000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128005628,97487,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128005628,49140,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128005628,59000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128006629,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128006629,18440192000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128006629,97000,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128006629,50649,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128006629,45000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128007630,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128007630,18440192000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128007630,97969,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128007630,51936,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128007630,58000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128008631,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128008631,18440192000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128008631,96984,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128008631,53535,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128008631,36000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128009719,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128009719,18440192000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128009719,98492,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128009720,54270,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128009720,49000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128010720,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128010720,18440192000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128010720,97500,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128010720,55699,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128010720,30000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128011721,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128011721,18440192000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128011721,97474,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128011721,56280,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128011721,34000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128012722,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128012722,18440192000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128012723,96000,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128012723,55870,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128012723,53000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128013724,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128013724,18440192000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128013724,97989,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128013724,57332,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128013724,105000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128014725,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128014725,18440192000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128014725,100000,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128014725,55518,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128014726,100000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128015726,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128015727,18440192000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128015727,65989,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128015727,53173,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128015727,45000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128016728,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128016728,18440192000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128016728,95979,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128016728,50856,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128016728,63000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128017729,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128017729,18440192000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128017729,96428,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128017730,54636,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128017730,31000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128018731,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128018731,18440192000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128018731,97989,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128018731,58013,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128018731,11000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128019732,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128019732,18440192000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128019732,98477,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128019732,62144,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128019732,64000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128020733,1000,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128020733,18968576000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128020733,98500,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128020733,62946,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128020733,101000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128021734,6000,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128021734,18968576000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128021734,97000,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128021734,59769,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128021734,96000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128022735,14000,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128022735,18968576000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128022735,95959,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128022735,56561,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128022735,34000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128023736,3000,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128023736,18968576000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128023736,93939,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128023736,54330,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128023736,59000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128024737,3000,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128024737,18968576000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128024737,97000,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128024738,55258,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128024738,39000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128025739,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128025739,18968576000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128025739,97979,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128025739,58830,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128025739,38000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128026740,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128026740,18968576000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128026740,98994,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128026740,63557,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128026740,38000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128027741,1000,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128027741,18968576000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128027741,99004,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128027741,64262,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128027741,79000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128028742,12000,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128028742,18968576000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128028742,95897,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128028743,57096,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128028743,100000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128029743,4000,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128029743,18968576000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128029743,90404,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128029744,55885,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128029744,52000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128030745,8000,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128030745,18968576000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128030745,91044,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128030745,51001,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128030745,82000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128031746,2000,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128031746,18968576000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128031746,97461,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128031746,53209,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128031746,68000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128032747,3000,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128032747,18968576000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128032747,96500,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128032747,56482,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128032747,21000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128033749,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128033749,18968576000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128033749,99497,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128033749,60827,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128033749,64000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128034824,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128034824,18968576000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128034824,98492,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128034824,63445,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128034824,3000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128035824,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128035825,18968576000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128035825,97487,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128035825,60429,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128035825,13000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128036826,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128036826,18968576000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128036826,95959,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128036826,57384,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128036826,39000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128037827,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128037827,18968576000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128037827,96969,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128037827,54496,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128037827,69000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128038828,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128038828,18968576000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128038828,95979,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128038828,53738,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128038828,58000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128039829,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128039829,18968576000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128039829,98500,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128039829,60134,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128039829,53000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128040830,1000,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128040830,18968576000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128040830,98994,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128040830,66886,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128040830,65000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128041836,25000,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128041836,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128041837,96969,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128041837,60227,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128041837,100000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128042839,1000,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128042839,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128042839,95500,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128042839,54848,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128042839,98000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128043840,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128043840,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128043840,94897,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128043840,49654,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128043840,76000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128044841,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128044841,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128044841,96482,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128044841,52784,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128044841,26000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128045842,6000,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128045842,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128045843,97282,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128045843,56588,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128045843,11000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128046844,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128046844,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128046844,99000,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128046844,60531,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128046844,43000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128047845,6000,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128047845,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128047845,97461,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128047845,63782,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128047845,17000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128048846,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128048846,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128048846,96984,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128048846,61064,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128048846,2000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128049867,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128049867,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128049867,96984,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128049867,58624,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128049867,9000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128050868,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128050868,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128050868,95000,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128050869,53331,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128050869,61000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128051870,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128051870,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128051870,96464,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128051870,52930,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128051870,52000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128052871,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128052871,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128052871,97989,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128052871,59300,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128052871,41000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128053872,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128053872,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128053872,99500,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128053872,66372,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128053872,33000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128054872,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128054872,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128054873,97487,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128054873,61656,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128054873,24000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128055873,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128055873,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128055873,94000,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128055873,55591,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128055873,55000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128056875,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128056875,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128056875,95959,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128056875,55861,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128056875,59000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128057876,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128057876,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128057876,96500,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128057876,57137,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128057876,43000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128058877,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128058877,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128058877,97487,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128058877,57831,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128058877,26000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128059878,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128059878,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128059878,98492,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128059878,59762,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128059878,31000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128060879,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128060879,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128060880,98009,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128060880,60497,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128060880,16000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128061966,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128061966,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128061966,97474,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128061966,60961,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128061966,11000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128062967,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128062967,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128062967,95500,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128062967,56540,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128062967,56000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128063968,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128063968,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128063968,98500,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128063968,55379,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128063968,69000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128064969,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128064969,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128064969,98000,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128064969,60176,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128064969,58000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128065970,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128065970,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128065970,98994,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128065970,65209,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128065970,27000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128066971,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128066971,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128066971,97989,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128066971,61735,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128066971,37000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128067972,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128067972,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128067972,95979,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128067972,56271,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128067972,48000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128068973,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128068973,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128068973,97474,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128068973,56656,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128068973,38000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128069974,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128069974,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128069974,96969,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128069974,56772,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128069974,38000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128070976,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128070976,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128070976,95959,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128070976,57466,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128070976,27000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128071976,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128071977,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128071977,97989,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128071977,57989,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128071977,28000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128072977,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128072977,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128072977,98000,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128072978,59466,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128072978,10000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128073979,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128073979,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128073979,96482,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128073979,60345,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128073979,16000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128074980,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128074980,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128074980,96464,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128074980,58635,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128074980,107000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128075981,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128075981,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128075981,96000,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128075981,54239,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128075981,80000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128076982,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128076982,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128076982,94974,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128076982,55562,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128076982,84000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128077983,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128077983,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128077984,97474,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128077984,61766,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128077984,34000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128078997,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128078997,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128078997,99500,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128078997,65601,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128078997,13000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128079998,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128079998,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128079998,97500,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128079998,61475,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128079998,45000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128080999,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128080999,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128080999,95454,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128080999,55758,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128080999,100000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128082000,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128082000,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128082001,95454,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128082001,55604,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128082001,41000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128083002,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128083002,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128083002,96482,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128083002,56264,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128083002,49000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128084003,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128084003,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128084003,98469,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128084003,56893,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128084003,25000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128085004,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128085004,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128085004,98507,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128085004,60266,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128085004,27000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128086005,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128086005,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128086005,98500,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128086005,62342,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128086005,19000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128087006,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128087006,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128087006,99494,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128087006,60512,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128087006,12000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128088007,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128088007,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128088008,96428,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128088008,56243,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128088008,37000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128089009,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128089009,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128089009,97000,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128089009,54987,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128089009,59000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128090010,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128090010,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128090010,97487,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128090010,59586,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128090010,41000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128091011,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128091011,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128091011,99492,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128091011,63729,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128091011,38000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128092012,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128092012,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128092012,98009,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128092012,63207,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128092012,27000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128093013,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128093013,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128093013,96969,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128093013,57131,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128093013,47000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128094014,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128094014,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128094014,95522,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128094014,56895,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128094014,40000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128095015,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128095015,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128095015,96954,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128095015,57521,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128095015,32000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128096016,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128096016,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128096016,96969,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128096016,56867,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128096016,25000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128097017,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128097017,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128097017,97989,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128097017,59270,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128097017,55000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128098018,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128098018,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128098018,98000,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128098018,62766,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128098018,22000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128099019,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128099019,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128099019,97500,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128099019,62905,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128099019,16000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128100020,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128100020,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128100020,96482,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128100020,57369,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128100020,39000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128101021,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128101021,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128101021,95000,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128101021,51656,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128101021,73000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128102022,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128102022,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128102022,97487,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128102022,55914,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128102022,46000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128103023,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128103023,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128103023,97979,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128103023,60903,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128103023,32000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128104024,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128104024,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128104024,98492,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128104024,63690,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128104025,14000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128105025,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128105025,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128105025,97000,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128105025,59633,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128105025,32000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128106026,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128106026,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128106027,97474,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128106027,56866,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128106027,49000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128107027,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128107028,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128107028,95454,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128107028,55784,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128107028,111000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128108029,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128108029,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128108029,95477,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128108029,49350,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128108029,63000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128109030,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128109030,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128109030,95024,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128109030,48902,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128109030,93000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128110031,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128110031,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128110031,96500,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128110031,50650,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128110031,10000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128111032,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128111032,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128111032,95979,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128111032,53907,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128111032,30000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128112033,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128112033,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128112033,98484,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128112033,60493,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128112033,18000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128113034,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128113034,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128113034,99000,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128113034,65745,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128113034,12000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128114036,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128114036,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128114036,96482,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128114036,61585,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128114036,10000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128115037,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128115037,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128115037,96482,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128115037,55886,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128115037,51000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128116060,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128116060,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128116061,96464,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128116061,55967,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128116061,62000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128117061,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128117062,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128117062,96482,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128117062,57790,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128117062,74000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128118218,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128118218,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128118218,97474,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128118218,62425,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128118218,23000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128119219,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128119219,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128119219,97487,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128119219,64076,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128119219,20000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128120220,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128120220,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128120220,96984,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128120220,60209,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128120220,25000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128121220,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128121220,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128121221,94974,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128121221,56502,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128121221,36000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128122221,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128122222,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128122222,96938,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128122222,53495,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128122222,45000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128123222,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128123223,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128123223,95500,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128123223,52896,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128123223,51000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128124224,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128124224,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128124224,96500,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128124224,55326,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128124224,41000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128125225,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128125225,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128125225,96969,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128125225,61260,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128125225,33000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128126226,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128126226,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128126226,96000,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128126226,66628,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128126226,15000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128127485,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128127485,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128127485,94923,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128127485,61124,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128127485,46000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128128486,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128128486,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128128486,95454,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128128486,54753,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128128486,89000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128129487,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128129487,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128129487,70297,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128129488,51568,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128129488,79000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128130488,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128130488,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128130488,96954,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128130488,52871,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128130488,48000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128131490,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128131490,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128131490,96517,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128131490,57063,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128131490,53000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128132490,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128132490,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128132491,96984,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128132491,62491,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128132491,25000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128133491,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128133492,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128133492,97487,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128133492,64325,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128133492,49000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128134493,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128134493,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128134493,94500,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128134493,58709,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128134493,15000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128135493,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128135493,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128135493,94949,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128135493,55826,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128135494,16000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128136494,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128136494,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128136495,93467,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128136495,52134,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128136495,25000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128137496,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128137496,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128137496,94444,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128137496,50114,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128137496,45000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128138497,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128138497,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128138497,96984,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128138497,53034,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128138497,38000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128139498,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128139498,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128139498,96984,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128139498,62251,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128139498,88000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128140499,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128140499,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128140499,98492,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128140499,67104,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128140499,83000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128141500,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128141500,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128141500,95431,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128141500,61254,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128141500,71000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128142501,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128142501,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128142501,92964,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128142501,52036,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128142501,45000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128143502,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128143502,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128143502,95979,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128143502,53349,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128143502,67000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128144503,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128144503,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128144503,98484,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128144503,59021,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128144503,32000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128145504,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128145504,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128145504,97536,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128145504,61630,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128145504,9000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128146505,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128146505,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128146505,95477,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128146505,58665,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128146505,69000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128147506,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128147506,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128147506,95500,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128147506,54935,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128147506,10000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128148507,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128148507,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128148507,95408,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128148507,55163,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128148507,15000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128149508,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128149508,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128149508,96969,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128149508,54291,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128149508,27000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128150509,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128150509,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128150509,96464,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128150509,53932,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128150509,41000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128151518,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128151518,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128151518,96500,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128151518,56922,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128151518,71000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128152519,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128152519,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128152519,97989,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128152519,64097,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128152519,30000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128153520,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128153520,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128153520,98994,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128153520,65889,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128153520,36000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128154521,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128154521,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128154521,96464,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128154521,57585,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128154521,68000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128155522,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128155522,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128155523,96000,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128155523,55163,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128155523,61000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128156524,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128156524,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128156524,95454,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128156524,57135,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128156524,78000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128157525,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128157525,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128157525,96500,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128157525,60595,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128157525,21000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128158526,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128158526,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128158526,96969,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128158526,62281,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128158526,19000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128159527,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128159527,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128159527,95024,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128159527,59485,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128159527,17000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128160528,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128160528,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128160528,92929,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128160528,56276,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128160528,41000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128161529,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128161529,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128161529,92424,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128161529,54427,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128161529,88000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128162530,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128162531,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128162531,94527,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128162531,54461,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128162531,55000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128163532,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128163532,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128163532,94444,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128163532,57222,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128163532,19000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128164533,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128164533,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128164533,98000,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128164533,63085,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128164533,46000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128165534,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128165534,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128165534,96482,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128165534,65077,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128165534,31000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128166535,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128166535,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128166535,95454,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128166535,60067,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128166535,45000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128167536,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128167536,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128167536,93467,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128167536,57141,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128167536,51000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128168537,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128168537,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128168537,95408,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128168537,56102,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128168537,73000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128169538,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128169538,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128169538,93939,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128169538,59210,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128169538,33000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128170539,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128170539,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128170539,96000,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128170539,61916,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128170539,22000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128171540,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128171540,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128171540,95431,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128171540,62720,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128171540,67000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128172541,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128172541,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128172541,96969,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128172541,56704,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128172541,102000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128173542,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128173542,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128173542,95024,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128173542,50533,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128173542,58000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128174543,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128174543,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128174543,94949,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128174543,52304,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128174543,38000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128175544,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128175544,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128175544,94974,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128175544,56455,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128175544,28000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128176545,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128176545,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128176545,96464,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128176545,56840,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128176545,6000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128177546,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128177546,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128177546,97461,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128177546,57862,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128177546,69000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128178546,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128178547,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128178547,96984,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128178547,59739,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128178547,22000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128179548,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128179548,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128179548,97487,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128179548,61594,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128179548,37000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128180549,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128180549,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128180549,97000,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128180549,61327,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128180549,32000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128181550,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128181550,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128181550,97000,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128181550,55506,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128181550,45000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128182551,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128182551,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128182551,96984,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128182551,59518,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128182551,87000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128183689,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128183689,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128183689,98989,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128183689,65484,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128183689,25000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128184690,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128184690,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128184690,95979,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128184690,63256,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128184690,54000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128185691,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128185691,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128185691,96482,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128185691,58288,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128185691,56000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128186692,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128186692,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128186692,97000,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128186692,56454,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128186692,32000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128187693,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128187693,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128187693,94974,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128187693,56239,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128187693,40000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128188694,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128188694,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128188694,93564,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128188694,56287,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128188694,32000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128189695,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128189695,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128189695,94974,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128189695,56411,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128189695,18000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128190695,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128190695,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128190695,95477,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128190695,59126,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128190695,17000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128191696,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128191696,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128191696,96482,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128191696,60707,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128191696,24000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128192697,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128192697,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128192697,95500,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128192698,60099,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128192698,35000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128193698,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128193698,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128193698,96482,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128193698,58173,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128193698,70000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128194699,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128194699,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128194699,97979,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128194699,61528,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128194699,50000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128195700,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128195700,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128195700,96000,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128195700,62832,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128195700,57000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128196701,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128196701,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128196701,97014,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128196701,62577,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128196701,56000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128197702,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128197702,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128197702,96500,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128197702,58848,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128197702,76000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128198703,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128198703,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128198703,95500,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128198703,58228,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128198703,95000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128199704,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128199704,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128199704,95500,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128199704,54185,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128199704,58000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128200705,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128200705,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128200705,97000,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128200705,56559,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128200705,28000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128201706,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128201706,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128201706,94472,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128201706,57702,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128201706,5000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128202707,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128202707,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128202707,95500,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128202707,58197,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128202707,28000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128203707,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128203707,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128203707,97000,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128203707,59465,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128203707,53000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128204708,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128204708,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128204708,96969,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128204709,58359,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128204709,100000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128205709,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128205710,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128205710,91542,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128205710,52869,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128205710,84000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128206710,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128206710,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128206710,97461,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128206710,55701,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128206710,53000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128207711,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128207711,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128207711,99000,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128207711,64413,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128207711,26000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128208712,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128208712,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128208712,95454,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128208712,65724,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128208712,14000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128209713,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128209713,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128209713,97014,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128209713,58855,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128209713,38000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128210714,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128210714,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128210714,93939,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128210714,54718,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128210714,22000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128211715,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128211715,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128211715,94949,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128211715,52488,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128211716,42000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128212716,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128212716,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128212716,94500,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128212716,52114,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128212716,37000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128213717,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128213717,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128213717,98477,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128213717,53844,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128213717,18000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128214718,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128214718,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128214718,97487,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128214718,57968,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128214718,8000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128215719,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128215719,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128215719,97474,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128215719,63422,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128215719,67000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128216720,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128216720,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128216720,97029,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128216720,62991,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128216720,16000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128217721,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128217721,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128217721,98000,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128217721,59727,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128217721,52000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128218722,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128218722,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128218722,94500,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128218722,56214,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128218722,50000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128219723,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128219723,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128219723,97969,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128219723,59972,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128219723,56000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128220724,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128220724,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128220724,96019,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128220724,63311,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128220724,55000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128221725,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128221725,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128221725,95500,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128221725,61860,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128221725,25000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128222726,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128222726,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128222726,93969,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128222726,56415,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128222726,15000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128223727,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128223727,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128223727,93969,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128223727,54927,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128223727,48000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128224727,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128224727,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128224727,95979,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128224727,51996,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128224727,59000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128225728,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128225728,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128225728,95000,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128225728,53265,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128225728,43000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128226729,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128226729,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128226729,95500,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128226729,56480,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128226729,24000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128227730,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128227730,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128227730,96464,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128227730,61743,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128227730,10000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128228731,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128228731,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128228731,96019,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128228731,64704,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128228731,23000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128229732,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128229732,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128229732,94974,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128229732,61059,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128229732,64000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128230733,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128230733,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128230733,96464,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128230733,54174,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128230733,107000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128231734,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128231734,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128231734,94000,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128231734,54806,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128231734,55000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128232735,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128232735,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128232735,98500,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128232735,59447,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128232735,24000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128233736,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128233736,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128233736,97500,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128233736,64962,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128233736,16000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128234737,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128234737,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128234737,96482,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128234737,62834,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128234737,15000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128235738,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128235738,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128235738,94472,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128235738,56174,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128235738,32000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128236739,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128236739,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128236739,94416,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128236739,50132,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128236739,100000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128237740,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128237740,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128237740,96984,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128237740,49556,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128237740,75000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128238741,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128238741,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128238741,96482,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128238741,53298,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128238741,27000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128239742,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128239742,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128239742,97014,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128239742,55396,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128239742,15000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128240743,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128240743,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128240743,97474,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128240743,57889,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128240743,49000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128241744,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128241744,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128241744,96984,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128241744,62802,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128241744,20000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128242745,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128242745,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128242745,95024,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128242745,63791,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128242745,13000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128243746,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128243746,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128243746,97014,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128243746,59764,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128243746,28000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128244747,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128244747,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128244747,94444,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128244747,52599,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128244747,66000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128245748,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128245748,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128245748,100000,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128245748,56692,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128245748,65000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128246776,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128246776,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128246777,99000,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128246777,66885,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128246777,29000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128247777,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128247777,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128247777,98500,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128247777,63908,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128247777,34000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128248778,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128248778,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128248778,95000,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128248778,53882,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128248778,32000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128249779,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128249779,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128249779,96482,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128249779,52039,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128249779,49000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128250780,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128250780,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128250780,96000,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128250780,53370,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128250780,27000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128251781,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128251781,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128251781,97500,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128251781,54960,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128251781,22000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128252782,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128252782,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128252782,96984,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128252782,55758,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128252782,11000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128253801,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128253802,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128253802,97487,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128253802,60227,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128253802,43000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128254802,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128254802,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128254802,98000,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128254802,62771,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128254802,9000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128255803,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128255803,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128255803,97500,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128255803,61998,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128255803,18000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128256804,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128256804,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128256804,96482,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128256804,58012,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128256804,55000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128257805,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128257805,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128257805,96984,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128257805,57037,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128257805,83000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128258817,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128258817,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128258817,99497,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128258817,63144,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128258817,52000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128259855,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128259855,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128259855,98507,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128259855,65407,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128259855,42000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128260855,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128260856,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128260856,97474,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128260856,59551,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128260856,35000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128261856,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128261856,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128261856,96000,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128261856,54782,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128261857,23000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128262857,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128262857,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128262857,96500,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128262857,53104,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128262857,27000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128263858,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128263858,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128263858,97000,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128263858,52848,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128263858,108000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128264859,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128264859,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128264859,97500,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128264859,54529,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128264859,46000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128265860,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128265860,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128265860,99000,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128265860,58341,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128265860,23000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128266861,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128266861,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128266861,99004,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128266861,63083,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128266861,13000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128267862,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128267862,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128267862,96000,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128267862,62442,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128267862,51000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128268862,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128268862,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128268862,96000,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128268862,61067,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128268862,55000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128269863,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128269863,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128269864,92647,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128269864,52917,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128269864,107000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128270864,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128270865,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128270865,91959,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128270865,49096,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128270865,98000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128271865,14000,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128271865,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128271866,97487,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128271866,54818,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128271866,19000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128272866,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128272866,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128272866,91959,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128272866,61075,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128272866,32000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128273867,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128273868,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128273868,96464,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128273868,62821,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128273868,36000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128274868,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128274868,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128274868,95959,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128274868,60577,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128274868,38000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128275869,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128275869,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128275869,94000,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128275869,57093,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128275869,15000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128276870,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128276870,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128276870,93467,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128276870,56979,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128276870,12000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128277871,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128277871,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128277871,93939,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128277871,53760,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128277871,29000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128278872,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128278872,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128278872,96984,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128278872,53553,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128278872,32000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128279872,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128279873,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128279873,98000,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128279873,59222,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128279873,44000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128280873,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128280874,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128280874,98500,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128280874,66389,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128280874,37000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128281875,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128281875,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128281875,98484,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128281875,61896,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128281875,25000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128282875,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128282876,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128282876,93969,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128282876,56447,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128282876,61000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128283876,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128283876,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128283876,95000,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128283876,58514,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128283876,53000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128284877,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128284877,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128284877,95959,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128284877,60504,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128284877,35000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128285878,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128285878,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128285878,95500,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128285878,59976,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128285878,22000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128286879,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128286879,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128286879,95477,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128286879,58668,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128286879,28000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128287879,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128287879,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128287879,94472,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128287879,58492,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128287879,32000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128288880,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128288880,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128288880,95000,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128288880,57982,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128288880,28000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128289881,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128289881,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128289881,93034,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128289881,57332,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128289881,17000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128290882,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128290882,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128290882,95500,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128290882,59027,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128290882,45000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128291883,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128291883,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128291883,94974,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128291883,61022,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128291883,71000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128292883,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128292883,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128292883,99000,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128292883,64789,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128292883,39000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128293884,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128293884,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128293884,96984,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128293884,62854,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128293884,61000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128294885,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128294885,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128294885,95544,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128294885,58159,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128294885,65000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128295886,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128295886,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128295886,96482,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128295886,59232,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128295886,48000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128296887,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128296887,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128296887,94974,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128296887,59677,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128296887,41000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128297888,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128297888,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128297888,96464,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128297888,58722,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128297888,22000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128298889,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128298889,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128298889,97000,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128298889,58229,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128298889,25000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128299890,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128299890,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128299890,95431,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128299890,58474,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128299890,14000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128300891,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128300891,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128300891,97474,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128300891,58718,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128300891,57000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128301892,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128301892,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128301892,93500,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128301892,56095,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128301892,100000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128302893,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128302893,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128302893,91542,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128302893,50534,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128302893,61000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128303906,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128303906,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128303906,95000,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128303906,55741,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128303906,25000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128304907,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128304907,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128304907,97474,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128304907,60131,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128304907,17000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128305908,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128305908,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128305908,96984,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128305908,63828,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128305908,15000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128306909,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128306909,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128306909,94974,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128306909,62900,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128306909,48000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128307909,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128307909,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128307909,94416,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128307909,58439,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128307909,48000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128308910,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128308910,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128308910,95000,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128308910,57118,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128308910,43000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128309911,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128309911,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128309911,96482,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128309911,56925,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128309911,43000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128310912,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128310912,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128310912,95979,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128310912,56934,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128310912,39000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128311913,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128311913,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128311913,96954,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128311913,59523,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128311913,16000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0
+1587128312913,0,virtual.lab.inf.uva.es Disks I/O reads,,,,,true,,0,0,0,0,null,0,0,0
+1587128312913,19755008000,virtual.lab.inf.uva.es Swap,,,,,true,,0,0,0,0,null,0,0,0
+1587128312913,96500,virtual.lab.inf.uva.es CPU,,,,,true,,0,0,0,0,null,0,0,0
+1587128312913,62065,virtual.lab.inf.uva.es Memory usedperc,,,,,true,,0,0,0,0,null,0,0,0
+1587128312914,22000,virtual.lab.inf.uva.es Disks I/O writes,,,,,true,,0,0,0,0,null,0,0,0

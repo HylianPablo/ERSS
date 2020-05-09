@@ -1,222 +1,220 @@
-2020-04-16 20:33:55,814 INFO o.a.j.u.JMeterUtils: Setting Locale to en_US
-2020-04-16 20:33:55,856 INFO o.a.j.JMeter: Loading user properties from: /home/pablo/jmeter/bin/user.properties
-2020-04-16 20:33:55,858 INFO o.a.j.JMeter: Loading system properties from: /home/pablo/jmeter/bin/system.properties
-2020-04-16 20:33:55,859 INFO o.a.j.JMeter: Setting System property: HILOS=40
-2020-04-16 20:33:55,859 INFO o.a.j.JMeter: Setting System property: SUBIDA=15
-2020-04-16 20:33:55,860 INFO o.a.j.JMeter: Setting System property: DURACION=615
-2020-04-16 20:33:55,860 INFO o.a.j.JMeter: Setting System property: FILE=scriptresultsPerfmon40.jtl
-2020-04-16 20:33:55,863 INFO o.a.j.JMeter: Copyright (c) 1998-2019 The Apache Software Foundation
-2020-04-16 20:33:55,864 INFO o.a.j.JMeter: Version 5.2.1
-2020-04-16 20:33:55,864 INFO o.a.j.JMeter: java.version=1.8.0_201
-2020-04-16 20:33:55,864 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
-2020-04-16 20:33:55,864 INFO o.a.j.JMeter: os.name=Linux
-2020-04-16 20:33:55,865 INFO o.a.j.JMeter: os.arch=amd64
-2020-04-16 20:33:55,865 INFO o.a.j.JMeter: os.version=4.15.0-96-generic
-2020-04-16 20:33:55,865 INFO o.a.j.JMeter: file.encoding=UTF-8
-2020-04-16 20:33:55,865 INFO o.a.j.JMeter: java.awt.headless=true
-2020-04-16 20:33:55,866 INFO o.a.j.JMeter: Max memory     =732954624
-2020-04-16 20:33:55,866 INFO o.a.j.JMeter: Available Processors =4
-2020-04-16 20:33:55,876 INFO o.a.j.JMeter: Default Locale=English (United States)
-2020-04-16 20:33:55,877 INFO o.a.j.JMeter: JMeter  Locale=English (United States)
-2020-04-16 20:33:55,877 INFO o.a.j.JMeter: JMeterHome=/home/pablo/jmeter
-2020-04-16 20:33:55,877 INFO o.a.j.JMeter: user.dir  =/home/pablo/jmeter/bin/EJECUCIONES/P3
-2020-04-16 20:33:55,878 INFO o.a.j.JMeter: PWD       =/home/pablo/jmeter/bin/EJECUCIONES/P3
-2020-04-16 20:33:55,878 INFO o.a.j.JMeter: IP: 127.0.1.1 Name: hylianpablo FullName: hylianpablo
-2020-04-16 20:33:55,891 INFO o.a.j.s.FileServer: Default base='/home/pablo/jmeter/bin/EJECUCIONES/P3'
-2020-04-16 20:33:55,903 INFO o.a.j.s.FileServer: Set new base='/home/pablo/jmeter/bin/EJECUCIONES/P3/..'
-2020-04-16 20:33:56,234 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
-2020-04-16 20:33:56,255 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
-2020-04-16 20:33:56,269 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
-2020-04-16 20:33:56,289 INFO o.a.j.s.SaveService: Loading file: ../RecordP3.jmx
-2020-04-16 20:33:56,373 INFO o.a.j.p.h.c.CookieManager: Settings: Delete null: true Check: true Allow variable: true Save: false Prefix: COOKIE_
-2020-04-16 20:33:56,430 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
-2020-04-16 20:33:56,431 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
-2020-04-16 20:33:56,431 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
-2020-04-16 20:33:56,431 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
-2020-04-16 20:33:56,431 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
-2020-04-16 20:33:56,432 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
-2020-04-16 20:33:56,849 INFO o.a.j.e.KeyToolUtils: keytool found at 'keytool'
-2020-04-16 20:33:56,851 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file /home/pablo/jmeter/bin/proxyserver.jks
-2020-04-16 20:33:56,942 INFO o.a.j.JMeter: Creating summariser <summary>
-2020-04-16 20:33:56,955 INFO o.a.j.e.StandardJMeterEngine: Running the test!
-2020-04-16 20:33:56,957 INFO o.a.j.s.SampleEvent: List of sample_variables: []
-2020-04-16 20:33:56,957 INFO o.a.j.s.SampleEvent: List of sample_variables: []
-2020-04-16 20:33:56,969 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
-2020-04-16 20:33:56,970 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
-2020-04-16 20:33:57,999 INFO o.a.j.JMeter: Running test (1587062037999)
-2020-04-16 20:33:58,088 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group
-2020-04-16 20:33:58,089 INFO o.a.j.e.StandardJMeterEngine: Starting 40 threads for group Thread Group.
-2020-04-16 20:33:58,097 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
-2020-04-16 20:33:58,097 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=40 ramp-up=15 delayedStart=false
-2020-04-16 20:33:58,127 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
-2020-04-16 20:33:58,133 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
-2020-04-16 20:33:58,134 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
-2020-04-16 20:33:58,134 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
-2020-04-16 20:33:58,145 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-1
-2020-04-16 20:33:58,240 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = hylianpablo
-2020-04-16 20:33:58,264 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
-2020-04-16 20:33:58,303 INFO o.a.j.t.ThreadGroup: Started thread group number 1
-2020-04-16 20:33:58,303 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
-2020-04-16 20:33:58,506 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-2
-2020-04-16 20:33:58,889 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-3
-2020-04-16 20:33:59,259 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-4
-2020-04-16 20:33:59,626 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-5
-2020-04-16 20:34:00,013 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-6
-2020-04-16 20:34:00,024 INFO o.a.j.r.Summariser: summary +     87 in 00:00:02 =   43.0/s Avg:    58 Min:    20 Max:   186 Err:     0 (0.00%) Active: 6 Started: 6 Finished: 0
-2020-04-16 20:34:00,362 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-7
-2020-04-16 20:34:00,737 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-8
-2020-04-16 20:34:01,109 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-9
-2020-04-16 20:34:01,480 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-10
-2020-04-16 20:34:01,862 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-11
-2020-04-16 20:34:02,229 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-12
-2020-04-16 20:34:02,612 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-13
-2020-04-16 20:34:02,982 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-14
-2020-04-16 20:34:03,353 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-15
-2020-04-16 20:34:03,728 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-16
-2020-04-16 20:34:04,102 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-17
-2020-04-16 20:34:04,480 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-18
-2020-04-16 20:34:04,856 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-19
-2020-04-16 20:34:05,229 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-20
-2020-04-16 20:34:05,605 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-21
-2020-04-16 20:34:05,982 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-22
-2020-04-16 20:34:06,369 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-23
-2020-04-16 20:34:06,728 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-24
-2020-04-16 20:34:07,104 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-25
-2020-04-16 20:34:07,478 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-26
-2020-04-16 20:34:07,855 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-27
-2020-04-16 20:34:08,232 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-28
-2020-04-16 20:34:08,608 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-29
-2020-04-16 20:34:08,977 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-30
-2020-04-16 20:34:09,352 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-31
-2020-04-16 20:34:09,728 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-32
-2020-04-16 20:34:10,105 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-33
-2020-04-16 20:34:10,478 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-34
-2020-04-16 20:34:10,855 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-35
-2020-04-16 20:34:11,228 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-36
-2020-04-16 20:34:11,607 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-37
-2020-04-16 20:34:11,982 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-38
-2020-04-16 20:34:12,353 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-39
-2020-04-16 20:34:12,729 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-40
-2020-04-16 20:34:30,009 INFO o.a.j.r.Summariser: summary +   4091 in 00:00:30 =  136.4/s Avg:   233 Min:    19 Max:  1907 Err:     0 (0.00%) Active: 40 Started: 40 Finished: 0
-2020-04-16 20:34:30,010 INFO o.a.j.r.Summariser: summary =   4178 in 00:00:32 =  130.5/s Avg:   229 Min:    19 Max:  1907 Err:     0 (0.00%)
-2020-04-16 20:35:00,005 INFO o.a.j.r.Summariser: summary +   4215 in 00:00:30 =  140.5/s Avg:   285 Min:    19 Max:  1650 Err:     0 (0.00%) Active: 40 Started: 40 Finished: 0
-2020-04-16 20:35:00,006 INFO o.a.j.r.Summariser: summary =   8393 in 00:01:02 =  135.4/s Avg:   257 Min:    19 Max:  1907 Err:     0 (0.00%)
-2020-04-16 20:35:30,005 INFO o.a.j.r.Summariser: summary +   4121 in 00:00:30 =  137.4/s Avg:   290 Min:    19 Max:  1976 Err:     0 (0.00%) Active: 40 Started: 40 Finished: 0
-2020-04-16 20:35:30,006 INFO o.a.j.r.Summariser: summary =  12514 in 00:01:32 =  136.0/s Avg:   268 Min:    19 Max:  1976 Err:     0 (0.00%)
-2020-04-16 20:36:00,002 INFO o.a.j.r.Summariser: summary +   4193 in 00:00:30 =  139.8/s Avg:   287 Min:    18 Max:  1851 Err:     0 (0.00%) Active: 40 Started: 40 Finished: 0
-2020-04-16 20:36:00,002 INFO o.a.j.r.Summariser: summary =  16707 in 00:02:02 =  136.9/s Avg:   273 Min:    18 Max:  1976 Err:     0 (0.00%)
-2020-04-16 20:36:30,005 INFO o.a.j.r.Summariser: summary +   4082 in 00:00:30 =  136.1/s Avg:   291 Min:    18 Max:  3299 Err:     0 (0.00%) Active: 40 Started: 40 Finished: 0
-2020-04-16 20:36:30,005 INFO o.a.j.r.Summariser: summary =  20789 in 00:02:32 =  136.8/s Avg:   276 Min:    18 Max:  3299 Err:     0 (0.00%)
-2020-04-16 20:37:00,004 INFO o.a.j.r.Summariser: summary +   4158 in 00:00:30 =  138.6/s Avg:   290 Min:    19 Max:  2494 Err:     0 (0.00%) Active: 40 Started: 40 Finished: 0
-2020-04-16 20:37:00,005 INFO o.a.j.r.Summariser: summary =  24947 in 00:03:02 =  137.1/s Avg:   279 Min:    18 Max:  3299 Err:     0 (0.00%)
-2020-04-16 20:37:30,008 INFO o.a.j.r.Summariser: summary +   4160 in 00:00:30 =  138.6/s Avg:   288 Min:    19 Max:  1657 Err:     0 (0.00%) Active: 40 Started: 40 Finished: 0
-2020-04-16 20:37:30,009 INFO o.a.j.r.Summariser: summary =  29107 in 00:03:32 =  137.3/s Avg:   280 Min:    18 Max:  3299 Err:     0 (0.00%)
-2020-04-16 20:38:00,019 INFO o.a.j.r.Summariser: summary +   4250 in 00:00:30 =  141.6/s Avg:   281 Min:    19 Max:  1669 Err:     0 (0.00%) Active: 40 Started: 40 Finished: 0
-2020-04-16 20:38:00,020 INFO o.a.j.r.Summariser: summary =  33357 in 00:04:02 =  137.8/s Avg:   280 Min:    18 Max:  3299 Err:     0 (0.00%)
-2020-04-16 20:38:30,001 INFO o.a.j.r.Summariser: summary +   4119 in 00:00:30 =  137.4/s Avg:   290 Min:    20 Max:  1694 Err:     0 (0.00%) Active: 40 Started: 40 Finished: 0
-2020-04-16 20:38:30,001 INFO o.a.j.r.Summariser: summary =  37476 in 00:04:32 =  137.8/s Avg:   281 Min:    18 Max:  3299 Err:     0 (0.00%)
-2020-04-16 20:39:00,006 INFO o.a.j.r.Summariser: summary +   4113 in 00:00:30 =  137.1/s Avg:   292 Min:    19 Max:  1869 Err:     0 (0.00%) Active: 40 Started: 40 Finished: 0
-2020-04-16 20:39:00,007 INFO o.a.j.r.Summariser: summary =  41589 in 00:05:02 =  137.7/s Avg:   282 Min:    18 Max:  3299 Err:     0 (0.00%)
-2020-04-16 20:39:30,011 INFO o.a.j.r.Summariser: summary +   4100 in 00:00:30 =  136.6/s Avg:   290 Min:    19 Max:  1856 Err:     0 (0.00%) Active: 40 Started: 40 Finished: 0
-2020-04-16 20:39:30,012 INFO o.a.j.r.Summariser: summary =  45689 in 00:05:32 =  137.6/s Avg:   283 Min:    18 Max:  3299 Err:     0 (0.00%)
-2020-04-16 20:40:00,007 INFO o.a.j.r.Summariser: summary +   3618 in 00:00:30 =  120.6/s Avg:   330 Min:    19 Max:  4939 Err:     0 (0.00%) Active: 40 Started: 40 Finished: 0
-2020-04-16 20:40:00,008 INFO o.a.j.r.Summariser: summary =  49307 in 00:06:02 =  136.2/s Avg:   286 Min:    18 Max:  4939 Err:     0 (0.00%)
-2020-04-16 20:40:30,017 INFO o.a.j.r.Summariser: summary +   4065 in 00:00:30 =  135.5/s Avg:   295 Min:    20 Max:  1888 Err:     0 (0.00%) Active: 40 Started: 40 Finished: 0
-2020-04-16 20:40:30,018 INFO o.a.j.r.Summariser: summary =  53372 in 00:06:32 =  136.1/s Avg:   287 Min:    18 Max:  4939 Err:     0 (0.00%)
-2020-04-16 20:41:00,002 INFO o.a.j.r.Summariser: summary +   4138 in 00:00:30 =  138.0/s Avg:   290 Min:    19 Max:  1904 Err:     0 (0.00%) Active: 40 Started: 40 Finished: 0
-2020-04-16 20:41:00,003 INFO o.a.j.r.Summariser: summary =  57510 in 00:07:02 =  136.3/s Avg:   287 Min:    18 Max:  4939 Err:     0 (0.00%)
-2020-04-16 20:41:30,004 INFO o.a.j.r.Summariser: summary +   4137 in 00:00:30 =  137.9/s Avg:   289 Min:    18 Max:  1682 Err:     0 (0.00%) Active: 40 Started: 40 Finished: 0
-2020-04-16 20:41:30,005 INFO o.a.j.r.Summariser: summary =  61647 in 00:07:32 =  136.4/s Avg:   287 Min:    18 Max:  4939 Err:     0 (0.00%)
-2020-04-16 20:42:00,007 INFO o.a.j.r.Summariser: summary +   4186 in 00:00:30 =  139.5/s Avg:   289 Min:    18 Max:  1821 Err:     0 (0.00%) Active: 40 Started: 40 Finished: 0
-2020-04-16 20:42:00,008 INFO o.a.j.r.Summariser: summary =  65833 in 00:08:02 =  136.6/s Avg:   287 Min:    18 Max:  4939 Err:     0 (0.00%)
-2020-04-16 20:42:30,002 INFO o.a.j.r.Summariser: summary +   4078 in 00:00:30 =  136.0/s Avg:   292 Min:    19 Max:  1806 Err:     0 (0.00%) Active: 40 Started: 40 Finished: 0
-2020-04-16 20:42:30,003 INFO o.a.j.r.Summariser: summary =  69911 in 00:08:32 =  136.5/s Avg:   288 Min:    18 Max:  4939 Err:     0 (0.00%)
-2020-04-16 20:43:00,040 INFO o.a.j.r.Summariser: summary +   4158 in 00:00:30 =  138.4/s Avg:   286 Min:    19 Max:  1711 Err:     0 (0.00%) Active: 40 Started: 40 Finished: 0
-2020-04-16 20:43:00,041 INFO o.a.j.r.Summariser: summary =  74069 in 00:09:02 =  136.6/s Avg:   288 Min:    18 Max:  4939 Err:     0 (0.00%)
-2020-04-16 20:43:30,008 INFO o.a.j.r.Summariser: summary +   4170 in 00:00:30 =  139.2/s Avg:   288 Min:    19 Max:  1805 Err:     0 (0.00%) Active: 40 Started: 40 Finished: 0
-2020-04-16 20:43:30,009 INFO o.a.j.r.Summariser: summary =  78239 in 00:09:32 =  136.8/s Avg:   288 Min:    18 Max:  4939 Err:     0 (0.00%)
-2020-04-16 20:44:00,007 INFO o.a.j.r.Summariser: summary +   4155 in 00:00:30 =  138.5/s Avg:   290 Min:    19 Max:  1597 Err:     0 (0.00%) Active: 40 Started: 40 Finished: 0
-2020-04-16 20:44:00,008 INFO o.a.j.r.Summariser: summary =  82394 in 00:10:02 =  136.9/s Avg:   288 Min:    18 Max:  4939 Err:     0 (0.00%)
-2020-04-16 20:44:13,179 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-6
-2020-04-16 20:44:13,179 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-6
-2020-04-16 20:44:13,185 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-9
-2020-04-16 20:44:13,186 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-9
-2020-04-16 20:44:13,238 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-7
-2020-04-16 20:44:13,239 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-7
-2020-04-16 20:44:13,251 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-25
-2020-04-16 20:44:13,252 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-25
-2020-04-16 20:44:13,264 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-18
-2020-04-16 20:44:13,264 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-18
-2020-04-16 20:44:13,269 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-31
-2020-04-16 20:44:13,269 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-31
-2020-04-16 20:44:13,282 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-34
-2020-04-16 20:44:13,282 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-34
-2020-04-16 20:44:13,306 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-29
-2020-04-16 20:44:13,306 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-29
-2020-04-16 20:44:13,317 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-13
-2020-04-16 20:44:13,317 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-13
-2020-04-16 20:44:13,321 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-33
-2020-04-16 20:44:13,321 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-33
-2020-04-16 20:44:13,321 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-27
-2020-04-16 20:44:13,321 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-27
-2020-04-16 20:44:13,326 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-19
-2020-04-16 20:44:13,326 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-19
-2020-04-16 20:44:13,328 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-15
-2020-04-16 20:44:13,328 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-15
-2020-04-16 20:44:13,332 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-11
-2020-04-16 20:44:13,333 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-11
-2020-04-16 20:44:13,357 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-16
-2020-04-16 20:44:13,357 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-16
-2020-04-16 20:44:13,373 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-24
-2020-04-16 20:44:13,374 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-24
-2020-04-16 20:44:13,376 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-12
-2020-04-16 20:44:13,376 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-12
-2020-04-16 20:44:13,377 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-36
-2020-04-16 20:44:13,378 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-36
-2020-04-16 20:44:13,383 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-1
-2020-04-16 20:44:13,383 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-1
-2020-04-16 20:44:13,395 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-38
-2020-04-16 20:44:13,395 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-38
-2020-04-16 20:44:13,397 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-35
-2020-04-16 20:44:13,397 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-35
-2020-04-16 20:44:13,411 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-21
-2020-04-16 20:44:13,412 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-21
-2020-04-16 20:44:13,433 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-4
-2020-04-16 20:44:13,433 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-4
-2020-04-16 20:44:13,453 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-28
-2020-04-16 20:44:13,453 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-28
-2020-04-16 20:44:13,470 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-37
-2020-04-16 20:44:13,471 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-37
-2020-04-16 20:44:13,496 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-30
-2020-04-16 20:44:13,496 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-40
-2020-04-16 20:44:13,496 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-30
-2020-04-16 20:44:13,497 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-40
-2020-04-16 20:44:13,520 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-14
-2020-04-16 20:44:13,520 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-14
-2020-04-16 20:44:13,525 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-2
-2020-04-16 20:44:13,525 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-2
-2020-04-16 20:44:13,574 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-5
-2020-04-16 20:44:13,574 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-26
-2020-04-16 20:44:13,575 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-5
-2020-04-16 20:44:13,575 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-26
-2020-04-16 20:44:13,587 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-39
-2020-04-16 20:44:13,588 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-39
-2020-04-16 20:44:13,590 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-17
-2020-04-16 20:44:13,591 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-17
-2020-04-16 20:44:13,592 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-23
-2020-04-16 20:44:13,606 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-20
-2020-04-16 20:44:13,605 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-8
-2020-04-16 20:44:13,606 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-23
-2020-04-16 20:44:13,607 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-20
-2020-04-16 20:44:13,607 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-8
-2020-04-16 20:44:13,606 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-3
-2020-04-16 20:44:13,606 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-32
-2020-04-16 20:44:13,606 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-22
-2020-04-16 20:44:13,606 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-10
-2020-04-16 20:44:13,608 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-32
-2020-04-16 20:44:13,607 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-3
-2020-04-16 20:44:13,608 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-22
-2020-04-16 20:44:13,608 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-10
-2020-04-16 20:44:13,612 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
-2020-04-16 20:44:13,613 INFO o.a.j.r.Summariser: summary +   1833 in 00:00:14 =  134.7/s Avg:   295 Min:    19 Max:  1617 Err:     0 (0.00%) Active: 0 Started: 40 Finished: 40
-2020-04-16 20:44:13,614 INFO o.a.j.r.Summariser: summary =  84227 in 00:10:16 =  136.8/s Avg:   288 Min:    18 Max:  4939 Err:     0 (0.00%)
+2020-05-05 20:24:56,204 INFO o.a.j.u.JMeterUtils: Setting Locale to en_US
+2020-05-05 20:24:56,236 INFO o.a.j.JMeter: Loading user properties from: /home/pablo/jmeter/bin/user.properties
+2020-05-05 20:24:56,237 INFO o.a.j.JMeter: Loading system properties from: /home/pablo/jmeter/bin/system.properties
+2020-05-05 20:24:56,238 INFO o.a.j.JMeter: Setting System property: HILOS=40
+2020-05-05 20:24:56,238 INFO o.a.j.JMeter: Setting System property: SUBIDA=15
+2020-05-05 20:24:56,238 INFO o.a.j.JMeter: Setting System property: DURACION=615
+2020-05-05 20:24:56,239 INFO o.a.j.JMeter: Setting System property: FILE=scriptresultsPerfmon40.jtl
+2020-05-05 20:24:56,241 INFO o.a.j.JMeter: Copyright (c) 1998-2019 The Apache Software Foundation
+2020-05-05 20:24:56,242 INFO o.a.j.JMeter: Version 5.2.1
+2020-05-05 20:24:56,242 INFO o.a.j.JMeter: java.version=1.8.0_201
+2020-05-05 20:24:56,242 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2020-05-05 20:24:56,242 INFO o.a.j.JMeter: os.name=Linux
+2020-05-05 20:24:56,242 INFO o.a.j.JMeter: os.arch=amd64
+2020-05-05 20:24:56,243 INFO o.a.j.JMeter: os.version=4.15.0-99-generic
+2020-05-05 20:24:56,243 INFO o.a.j.JMeter: file.encoding=UTF-8
+2020-05-05 20:24:56,243 INFO o.a.j.JMeter: java.awt.headless=true
+2020-05-05 20:24:56,244 INFO o.a.j.JMeter: Max memory     =732954624
+2020-05-05 20:24:56,244 INFO o.a.j.JMeter: Available Processors =4
+2020-05-05 20:24:56,253 INFO o.a.j.JMeter: Default Locale=English (United States)
+2020-05-05 20:24:56,254 INFO o.a.j.JMeter: JMeter  Locale=English (United States)
+2020-05-05 20:24:56,254 INFO o.a.j.JMeter: JMeterHome=/home/pablo/jmeter
+2020-05-05 20:24:56,255 INFO o.a.j.JMeter: user.dir  =/home/pablo/jmeter/bin/EJECUCIONES/P3_V3
+2020-05-05 20:24:56,255 INFO o.a.j.JMeter: PWD       =/home/pablo/jmeter/bin/EJECUCIONES/P3_V3
+2020-05-05 20:24:56,256 INFO o.a.j.JMeter: IP: 127.0.1.1 Name: hylianpablo FullName: hylianpablo
+2020-05-05 20:24:56,264 INFO o.a.j.s.FileServer: Default base='/home/pablo/jmeter/bin/EJECUCIONES/P3_V3'
+2020-05-05 20:24:56,274 INFO o.a.j.s.FileServer: Set new base='/home/pablo/jmeter/bin/EJECUCIONES/P3_V3/..'
+2020-05-05 20:24:56,558 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2020-05-05 20:24:56,576 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2020-05-05 20:24:56,588 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2020-05-05 20:24:56,607 INFO o.a.j.s.SaveService: Loading file: ../RecordP3_V2.jmx
+2020-05-05 20:24:56,687 INFO o.a.j.p.h.c.CookieManager: Settings: Delete null: true Check: true Allow variable: true Save: false Prefix: COOKIE_
+2020-05-05 20:24:56,735 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-05-05 20:24:56,736 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-05-05 20:24:56,736 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-05-05 20:24:56,736 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-05-05 20:24:56,737 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2020-05-05 20:24:56,737 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2020-05-05 20:24:56,850 INFO o.a.j.JMeter: Creating summariser <summary>
+2020-05-05 20:24:56,863 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2020-05-05 20:24:56,865 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2020-05-05 20:24:56,866 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2020-05-05 20:24:56,881 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2020-05-05 20:24:56,882 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2020-05-05 20:24:57,822 INFO o.a.j.JMeter: Running test (1588703097822)
+2020-05-05 20:24:57,936 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group
+2020-05-05 20:24:57,937 INFO o.a.j.e.StandardJMeterEngine: Starting 40 threads for group Thread Group.
+2020-05-05 20:24:57,937 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2020-05-05 20:24:57,937 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=40 ramp-up=15 delayedStart=false
+2020-05-05 20:24:57,999 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-1
+2020-05-05 20:24:58,059 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = hylianpablo
+2020-05-05 20:24:58,075 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2020-05-05 20:24:58,080 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2020-05-05 20:24:58,081 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2020-05-05 20:24:58,081 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2020-05-05 20:24:58,081 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2020-05-05 20:24:58,125 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2020-05-05 20:24:58,126 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2020-05-05 20:24:58,362 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-2
+2020-05-05 20:24:58,696 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-3
+2020-05-05 20:24:59,073 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-4
+2020-05-05 20:24:59,441 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-5
+2020-05-05 20:24:59,819 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-6
+2020-05-05 20:25:00,043 INFO o.a.j.r.Summariser: summary +     33 in 00:00:02 =   14.9/s Avg:   133 Min:    28 Max:   624 Err:     0 (0.00%) Active: 6 Started: 6 Finished: 0
+2020-05-05 20:25:00,193 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-7
+2020-05-05 20:25:00,568 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-8
+2020-05-05 20:25:00,947 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-9
+2020-05-05 20:25:01,320 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-10
+2020-05-05 20:25:01,704 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-11
+2020-05-05 20:25:02,076 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-12
+2020-05-05 20:25:02,445 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-13
+2020-05-05 20:25:02,823 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-14
+2020-05-05 20:25:03,193 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-15
+2020-05-05 20:25:03,567 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-16
+2020-05-05 20:25:03,941 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-17
+2020-05-05 20:25:04,317 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-18
+2020-05-05 20:25:04,696 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-19
+2020-05-05 20:25:05,073 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-20
+2020-05-05 20:25:05,447 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-21
+2020-05-05 20:25:05,820 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-22
+2020-05-05 20:25:06,192 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-23
+2020-05-05 20:25:06,575 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-24
+2020-05-05 20:25:06,950 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-25
+2020-05-05 20:25:07,318 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-26
+2020-05-05 20:25:07,699 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-27
+2020-05-05 20:25:08,064 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-28
+2020-05-05 20:25:08,441 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-29
+2020-05-05 20:25:08,821 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-30
+2020-05-05 20:25:09,328 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-31
+2020-05-05 20:25:09,568 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-32
+2020-05-05 20:25:09,940 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-33
+2020-05-05 20:25:10,314 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-34
+2020-05-05 20:25:10,693 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-35
+2020-05-05 20:25:11,074 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-36
+2020-05-05 20:25:11,448 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-37
+2020-05-05 20:25:11,815 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-38
+2020-05-05 20:25:12,191 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-39
+2020-05-05 20:25:12,568 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-40
+2020-05-05 20:25:30,063 INFO o.a.j.r.Summariser: summary +    833 in 00:00:30 =   27.7/s Avg:  1109 Min:    35 Max: 10458 Err:     0 (0.00%) Active: 40 Started: 40 Finished: 0
+2020-05-05 20:25:30,064 INFO o.a.j.r.Summariser: summary =    866 in 00:00:32 =   26.9/s Avg:  1072 Min:    28 Max: 10458 Err:     0 (0.00%)
+2020-05-05 20:26:00,178 INFO o.a.j.r.Summariser: summary +    785 in 00:00:30 =   26.1/s Avg:  1432 Min:    69 Max: 11217 Err:     0 (0.00%) Active: 40 Started: 40 Finished: 0
+2020-05-05 20:26:00,179 INFO o.a.j.r.Summariser: summary =   1651 in 00:01:02 =   26.5/s Avg:  1243 Min:    28 Max: 11217 Err:     0 (0.00%)
+2020-05-05 20:26:30,108 INFO o.a.j.r.Summariser: summary +    765 in 00:00:30 =   25.6/s Avg:  1607 Min:   137 Max: 14670 Err:     0 (0.00%) Active: 40 Started: 40 Finished: 0
+2020-05-05 20:26:30,109 INFO o.a.j.r.Summariser: summary =   2416 in 00:01:32 =   26.2/s Avg:  1358 Min:    28 Max: 14670 Err:     0 (0.00%)
+2020-05-05 20:27:00,008 INFO o.a.j.r.Summariser: summary +    798 in 00:00:30 =   26.7/s Avg:  1459 Min:    72 Max: 12402 Err:     0 (0.00%) Active: 40 Started: 40 Finished: 0
+2020-05-05 20:27:00,009 INFO o.a.j.r.Summariser: summary =   3214 in 00:02:02 =   26.3/s Avg:  1383 Min:    28 Max: 14670 Err:     0 (0.00%)
+2020-05-05 20:27:30,017 INFO o.a.j.r.Summariser: summary +    862 in 00:00:30 =   28.7/s Avg:  1424 Min:    96 Max: 11831 Err:     0 (0.00%) Active: 40 Started: 40 Finished: 0
+2020-05-05 20:27:30,018 INFO o.a.j.r.Summariser: summary =   4076 in 00:02:32 =   26.8/s Avg:  1392 Min:    28 Max: 14670 Err:     0 (0.00%)
+2020-05-05 20:28:00,047 INFO o.a.j.r.Summariser: summary +    811 in 00:00:30 =   27.0/s Avg:  1490 Min:    90 Max: 11823 Err:     0 (0.00%) Active: 40 Started: 40 Finished: 0
+2020-05-05 20:28:00,047 INFO o.a.j.r.Summariser: summary =   4887 in 00:03:02 =   26.8/s Avg:  1408 Min:    28 Max: 14670 Err:     0 (0.00%)
+2020-05-05 20:28:30,077 INFO o.a.j.r.Summariser: summary +    840 in 00:00:30 =   28.0/s Avg:  1389 Min:   129 Max: 11921 Err:     0 (0.00%) Active: 40 Started: 40 Finished: 0
+2020-05-05 20:28:30,078 INFO o.a.j.r.Summariser: summary =   5727 in 00:03:32 =   27.0/s Avg:  1405 Min:    28 Max: 14670 Err:     0 (0.00%)
+2020-05-05 20:29:00,002 INFO o.a.j.r.Summariser: summary +    846 in 00:00:30 =   28.3/s Avg:  1457 Min:   133 Max: 13191 Err:     0 (0.00%) Active: 40 Started: 40 Finished: 0
+2020-05-05 20:29:00,003 INFO o.a.j.r.Summariser: summary =   6573 in 00:04:02 =   27.1/s Avg:  1412 Min:    28 Max: 14670 Err:     0 (0.00%)
+2020-05-05 20:29:30,008 INFO o.a.j.r.Summariser: summary +    839 in 00:00:30 =   28.0/s Avg:  1412 Min:   126 Max: 13976 Err:     0 (0.00%) Active: 40 Started: 40 Finished: 0
+2020-05-05 20:29:30,010 INFO o.a.j.r.Summariser: summary =   7412 in 00:04:32 =   27.2/s Avg:  1412 Min:    28 Max: 14670 Err:     0 (0.00%)
+2020-05-05 20:30:00,019 INFO o.a.j.r.Summariser: summary +    864 in 00:00:30 =   28.8/s Avg:  1395 Min:    94 Max: 12299 Err:     0 (0.00%) Active: 40 Started: 40 Finished: 0
+2020-05-05 20:30:00,020 INFO o.a.j.r.Summariser: summary =   8276 in 00:05:02 =   27.4/s Avg:  1410 Min:    28 Max: 14670 Err:     0 (0.00%)
+2020-05-05 20:30:30,266 INFO o.a.j.r.Summariser: summary +    794 in 00:00:30 =   26.3/s Avg:  1539 Min:   162 Max: 12983 Err:     0 (0.00%) Active: 40 Started: 40 Finished: 0
+2020-05-05 20:30:30,267 INFO o.a.j.r.Summariser: summary =   9070 in 00:05:32 =   27.3/s Avg:  1421 Min:    28 Max: 14670 Err:     0 (0.00%)
+2020-05-05 20:31:00,047 INFO o.a.j.r.Summariser: summary +    827 in 00:00:30 =   27.8/s Avg:  1441 Min:    72 Max: 14793 Err:     0 (0.00%) Active: 40 Started: 40 Finished: 0
+2020-05-05 20:31:00,048 INFO o.a.j.r.Summariser: summary =   9897 in 00:06:02 =   27.3/s Avg:  1423 Min:    28 Max: 14793 Err:     0 (0.00%)
+2020-05-05 20:31:30,031 INFO o.a.j.r.Summariser: summary +    827 in 00:00:30 =   27.6/s Avg:  1401 Min:   101 Max: 11227 Err:     0 (0.00%) Active: 40 Started: 40 Finished: 0
+2020-05-05 20:31:30,032 INFO o.a.j.r.Summariser: summary =  10724 in 00:06:32 =   27.3/s Avg:  1421 Min:    28 Max: 14793 Err:     0 (0.00%)
+2020-05-05 20:32:00,010 INFO o.a.j.r.Summariser: summary +    861 in 00:00:30 =   28.7/s Avg:  1436 Min:    83 Max: 10800 Err:     0 (0.00%) Active: 40 Started: 40 Finished: 0
+2020-05-05 20:32:00,011 INFO o.a.j.r.Summariser: summary =  11585 in 00:07:02 =   27.4/s Avg:  1422 Min:    28 Max: 14793 Err:     0 (0.00%)
+2020-05-05 20:32:30,123 INFO o.a.j.r.Summariser: summary +    766 in 00:00:30 =   25.4/s Avg:  1521 Min:    81 Max: 13061 Err:     0 (0.00%) Active: 40 Started: 40 Finished: 0
+2020-05-05 20:32:30,123 INFO o.a.j.r.Summariser: summary =  12351 in 00:07:32 =   27.3/s Avg:  1429 Min:    28 Max: 14793 Err:     0 (0.00%)
+2020-05-05 20:33:00,035 INFO o.a.j.r.Summariser: summary +    869 in 00:00:30 =   29.1/s Avg:  1444 Min:   126 Max: 10714 Err:     0 (0.00%) Active: 40 Started: 40 Finished: 0
+2020-05-05 20:33:00,036 INFO o.a.j.r.Summariser: summary =  13220 in 00:08:02 =   27.4/s Avg:  1430 Min:    28 Max: 14793 Err:     0 (0.00%)
+2020-05-05 20:33:30,027 INFO o.a.j.r.Summariser: summary +    775 in 00:00:30 =   25.8/s Avg:  1501 Min:    72 Max: 13044 Err:     0 (0.00%) Active: 40 Started: 40 Finished: 0
+2020-05-05 20:33:30,028 INFO o.a.j.r.Summariser: summary =  13995 in 00:08:32 =   27.3/s Avg:  1434 Min:    28 Max: 14793 Err:     0 (0.00%)
+2020-05-05 20:34:00,088 INFO o.a.j.r.Summariser: summary +    794 in 00:00:30 =   26.4/s Avg:  1481 Min:   130 Max: 13652 Err:     0 (0.00%) Active: 40 Started: 40 Finished: 0
+2020-05-05 20:34:00,089 INFO o.a.j.r.Summariser: summary =  14789 in 00:09:02 =   27.3/s Avg:  1436 Min:    28 Max: 14793 Err:     0 (0.00%)
+2020-05-05 20:34:30,410 INFO o.a.j.r.Summariser: summary +    814 in 00:00:30 =   26.8/s Avg:  1542 Min:   128 Max: 13348 Err:     0 (0.00%) Active: 40 Started: 40 Finished: 0
+2020-05-05 20:34:30,411 INFO o.a.j.r.Summariser: summary =  15603 in 00:09:33 =   27.2/s Avg:  1442 Min:    28 Max: 14793 Err:     0 (0.00%)
+2020-05-05 20:35:00,141 INFO o.a.j.r.Summariser: summary +    789 in 00:00:30 =   26.5/s Avg:  1464 Min:    92 Max: 13519 Err:     0 (0.00%) Active: 40 Started: 40 Finished: 0
+2020-05-05 20:35:00,142 INFO o.a.j.r.Summariser: summary =  16392 in 00:10:02 =   27.2/s Avg:  1443 Min:    28 Max: 14793 Err:     0 (0.00%)
+2020-05-05 20:35:13,031 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-3
+2020-05-05 20:35:13,031 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-3
+2020-05-05 20:35:13,094 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-18
+2020-05-05 20:35:13,094 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-18
+2020-05-05 20:35:13,099 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-19
+2020-05-05 20:35:13,099 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-19
+2020-05-05 20:35:13,169 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-10
+2020-05-05 20:35:13,169 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-10
+2020-05-05 20:35:13,184 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-30
+2020-05-05 20:35:13,185 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-30
+2020-05-05 20:35:13,285 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-40
+2020-05-05 20:35:13,285 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-40
+2020-05-05 20:35:13,302 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-7
+2020-05-05 20:35:13,302 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-5
+2020-05-05 20:35:13,302 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-5
+2020-05-05 20:35:13,302 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-7
+2020-05-05 20:35:13,312 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-9
+2020-05-05 20:35:13,312 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-9
+2020-05-05 20:35:13,318 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-29
+2020-05-05 20:35:13,318 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-29
+2020-05-05 20:35:13,410 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-12
+2020-05-05 20:35:13,410 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-12
+2020-05-05 20:35:13,412 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-6
+2020-05-05 20:35:13,412 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-6
+2020-05-05 20:35:13,579 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-34
+2020-05-05 20:35:13,579 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-34
+2020-05-05 20:35:13,748 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-8
+2020-05-05 20:35:13,749 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-8
+2020-05-05 20:35:13,837 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-2
+2020-05-05 20:35:13,838 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-2
+2020-05-05 20:35:13,940 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-20
+2020-05-05 20:35:13,941 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-20
+2020-05-05 20:35:14,007 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-13
+2020-05-05 20:35:14,007 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-13
+2020-05-05 20:35:14,444 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-24
+2020-05-05 20:35:14,444 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-24
+2020-05-05 20:35:14,554 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-17
+2020-05-05 20:35:14,555 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-17
+2020-05-05 20:35:14,700 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-35
+2020-05-05 20:35:14,701 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-35
+2020-05-05 20:35:14,760 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-33
+2020-05-05 20:35:14,760 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-33
+2020-05-05 20:35:14,865 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-16
+2020-05-05 20:35:14,865 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-16
+2020-05-05 20:35:14,881 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-27
+2020-05-05 20:35:14,882 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-27
+2020-05-05 20:35:14,892 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-23
+2020-05-05 20:35:14,892 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-23
+2020-05-05 20:35:15,144 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-31
+2020-05-05 20:35:15,145 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-31
+2020-05-05 20:35:15,247 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-38
+2020-05-05 20:35:15,247 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-38
+2020-05-05 20:35:15,399 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-39
+2020-05-05 20:35:15,399 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-39
+2020-05-05 20:35:15,434 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-4
+2020-05-05 20:35:15,434 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-4
+2020-05-05 20:35:15,569 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-21
+2020-05-05 20:35:15,569 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-21
+2020-05-05 20:35:15,598 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-32
+2020-05-05 20:35:15,599 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-32
+2020-05-05 20:35:15,631 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-36
+2020-05-05 20:35:15,631 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-36
+2020-05-05 20:35:15,753 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-15
+2020-05-05 20:35:15,754 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-15
+2020-05-05 20:35:15,773 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-1
+2020-05-05 20:35:15,774 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-1
+2020-05-05 20:35:15,888 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-14
+2020-05-05 20:35:15,889 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-14
+2020-05-05 20:35:15,957 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-25
+2020-05-05 20:35:15,957 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-25
+2020-05-05 20:35:16,005 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-26
+2020-05-05 20:35:16,006 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-26
+2020-05-05 20:35:16,113 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-11
+2020-05-05 20:35:16,114 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-11
+2020-05-05 20:35:16,152 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-28
+2020-05-05 20:35:16,152 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-28
+2020-05-05 20:35:16,163 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-22
+2020-05-05 20:35:16,164 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-22
+2020-05-05 20:35:16,219 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-37
+2020-05-05 20:35:16,220 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-37
+2020-05-05 20:35:16,220 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2020-05-05 20:35:16,222 INFO o.a.j.r.Summariser: summary +    407 in 00:00:16 =   25.3/s Avg:  1742 Min:   158 Max: 14355 Err:     0 (0.00%) Active: 0 Started: 40 Finished: 40
+2020-05-05 20:35:16,222 INFO o.a.j.r.Summariser: summary =  16799 in 00:10:18 =   27.2/s Avg:  1450 Min:    28 Max: 14793 Err:     0 (0.00%)
